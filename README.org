@@ -1,0 +1,9 @@
+* cl-fluidinfo
+
+Common Lisp client for the FluidDB/Fluidinfo database.
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/hdurer/cl-fluiddb.git |
+| commit  | 99f309e                                       |
+| systems | cl-fluidinfo                                  |
+|---------+-----------------------------------------------|
